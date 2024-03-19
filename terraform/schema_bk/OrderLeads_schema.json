@@ -1,0 +1,9 @@
+[
+    {"name": "Order Id", "type": "STRING", "mode": "NULLABLE"},
+    {"name": "Company Id", "type": "STRING", "mode": "NULLABLE"},
+    {"name": "Company Name", "type": "STRING", "mode": "NULLABLE"},
+    {"name": "Date", "type": "DATE", "mode": "NULLABLE"},
+    {"name": "Order Value", "type": "FLOAT", "mode": "NULLABLE"},
+    {"name": "Converted", "type": "BOOLEAN", "mode": "NULLABLE"}
+]
+  
