@@ -1,4 +1,4 @@
-project_id = "portfolioentrada"
+project_id = "pythoncurso-402901"
 region     = "us-central1"
 ent_terraform = "entrada_terraform"
 schema_bucket = "entrada_schema_bucket"
